@@ -1,0 +1,8 @@
+c:\users\gold\documents\visual studio 2010\Projects\Last Code\Last Code\bin\Debug\Last Code.exe
+c:\users\gold\documents\visual studio 2010\Projects\Last Code\Last Code\bin\Debug\Last Code.pdb
+c:\users\gold\documents\visual studio 2010\Projects\Last Code\Last Code\obj\x86\Debug\Last_Code.Form1.resources
+c:\users\gold\documents\visual studio 2010\Projects\Last Code\Last Code\obj\x86\Debug\Last_Code.Properties.Resources.resources
+c:\users\gold\documents\visual studio 2010\Projects\Last Code\Last Code\obj\x86\Debug\Last Code.csproj.GenerateResource.Cache
+c:\users\gold\documents\visual studio 2010\Projects\Last Code\Last Code\obj\x86\Debug\Last Code.exe
+c:\users\gold\documents\visual studio 2010\Projects\Last Code\Last Code\obj\x86\Debug\Last Code.pdb
+C:\Users\Gold\Documents\Visual Studio 2010\Projects\Last Code\Last Code\obj\x86\Debug\Last Code.csprojResolveAssemblyReference.cache
